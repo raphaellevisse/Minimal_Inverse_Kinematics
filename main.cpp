@@ -104,7 +104,6 @@ int main()
 {
     std::vector<double> lengths = {1.0, 1.0, 1.0, 1.0, 1.0};
     std::vector<Eigen::Vector3d> axes = {{0, 0, 1}, {0, 0, 1}, {0, 0, 1}, {1,0,0}, {0,1,0}};
-    // I want the user to enter the goal_pos
     std::cout << "Enter the goal position in the format x y z" << std::endl;
     double x, y, z;
     std::cin >> x >> y >> z;

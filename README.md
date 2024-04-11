@@ -1,5 +1,5 @@
 # Minimal_Inverse_Kinematics
-Extremely simple to use Inverse Kinematics library, taking axis, lengths and a goal position and solves the inverse kinematics using Jacobian Gradient Descent.
+Straight-forward use Inverse Kinematics library, taking axis, lengths and a goal position and solves the inverse kinematics using Jacobian Gradient Descent.
 
 Stemmed from prefering Matrix Exponential for robotic transformations and a more elegant jacobian calculation. 
 
